@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Sanskrutiii
 - 👀 I’m interested in AI and Cloud
-- 🌱 I’m currently learning AWS 
+- 🌱 I’m currently learning Data Science and Analytics
 - 📫 How to reach me "sanskrutids19@gmail.com"
